@@ -1,0 +1,52 @@
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #0b1020;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+@media (max-width: 768px) {
+ .hero {
+  padding: 120px 20px 60px;
+}
+
+.hero-content h1 {
+  font-size: 3rem;
+  line-height: 1.1;
+}
+
+.hero-content h2 {
+  font-size: 1.8rem;
+}
+
+.hero-content p {
+  font-size: 1rem;
+  line-height: 1.8;
+}
+
+.stack-line {
+  font-size: 0.9rem;
+  line-height: 1.8;
+}
+
+.hero-buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: center;
+}
+
+.hero-buttons a,
+.hero-buttons button {
+  width: 220px;
+}
+}

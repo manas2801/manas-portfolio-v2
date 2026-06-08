@@ -1,0 +1,40 @@
+.certificates {
+  padding: 100px 10%;
+  text-align: center;
+}
+
+.certificates h2 {
+  font-size: 3rem;
+  margin-bottom: 50px;
+}
+
+.certificate-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 25px;
+}
+
+.certificate-card {
+  background: rgba(255,255,255,0.05);
+
+  border: 1px solid rgba(255,255,255,0.08);
+
+  border-radius: 20px;
+
+  padding: 30px;
+
+  transition: 0.3s ease;
+}
+
+.certificate-card:hover {
+  transform: translateY(-8px);
+
+  border-color: #8b5cf6;
+
+  box-shadow: 0 10px 25px rgba(139,92,246,0.25);
+}
+
+.certificate-card h3 {
+  color: #a78bfa;
+  margin-bottom: 12px;
+}
