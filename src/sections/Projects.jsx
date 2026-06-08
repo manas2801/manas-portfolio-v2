@@ -113,7 +113,13 @@ allowing users to contribute, manage records and track donations.
     <button>GitHub</button>
   </a>
 
-  <button>Coming Soon</button>
+     <a
+  href="https://manas-portfolio-v2.vercel.app"
+  target="_blank"
+  rel="noreferrer"
+>
+  <button>Live Demo</button>
+</a>
 </div>
         </div>
 
