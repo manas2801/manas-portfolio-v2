@@ -1,16 +1,64 @@
-# React + Vite
+# Manas Portfolio V2
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern personal portfolio website built with React and Vite to showcase my projects, skills, certifications, and development journey.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* Modern responsive UI
+* React + Vite architecture
+* Animated hero section
+* Skills showcase
+* Featured projects section
+* Certifications section
+* Contact section
+* Resume download
+* GitHub profile integration
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React
+* Vite
+* JavaScript
+* HTML
+* CSS
 
-## Expanding the ESLint configuration
+## Featured Projects
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Smart Student Management System
+
+Full-stack Django application for managing students, attendance, marks, fees, reports and academic records.
+
+### Donation Web App
+
+Donation management platform built with Django and PostgreSQL.
+
+### Battlemode
+
+Interactive gaming project showcasing frontend and JavaScript logic building skills.
+
+### Portfolio V2
+
+Modern React portfolio with responsive design and premium UI.
+
+## Installation
+
+```bash
+npm install
+npm run dev
+```
+
+## Build for Production
+
+```bash
+npm run build
+```
+
+## Author
+
+**Manas Mayank**
+
+GitHub: https://github.com/manas2801
+
+## License
+
+This project is open for learning and portfolio purposes.
